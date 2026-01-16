@@ -29,7 +29,7 @@ STEPS TO RUN THE MODEL (ON ANY SYSTEM USING VS CODE)
    - Go to File → Open Folder
    - Select the project folder
 
-3. Download the trained model file (.h5) from Google Drive.
+3. Download the trained model file (.h5) from Google Drive.( Link given above and in Bio)
    - File name must be: pneumonia_detection_model.h5
    - Place this file inside the main project folder (same level as app.py)
 

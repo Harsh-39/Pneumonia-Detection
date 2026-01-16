@@ -3,8 +3,11 @@
 This project uses a Convolutional Neural Network (CNN) to detect whether a patient is suffering from Pneumonia by analyzing chest X-ray images uploaded through a web application.
 
 The trained deep learning model is integrated with a Flask-based web interface.
+--------------------------------------------------------------------------------
 
----
+This project is suitable for First-Year, Second-Semester, and Final-Year students as an academic Machine Learning / Deep Learning project.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔒 Paid Project Notice
 
@@ -98,3 +101,34 @@ Normal
 **Harsh**  
 B.Tech CSE (AI & ML)  
 📧 harshlavaniya11@gmail.com
+
+
+
+## 🔍 SEO Keywords
+
+Pneumonia Detection Project,
+Pneumonia Detection Using CNN,
+Chest X-ray Pneumonia Detection,
+CNN Based Pneumonia Detection System,
+Machine Learning Pneumonia Project,
+Deep Learning Medical Imaging Project,
+Medical Image Classification Using CNN,
+
+Final Year Pneumonia Detection Project,
+BTech Pneumonia Detection Project,
+AI ML Final Year Project Pneumonia,
+Major Project Pneumonia Detection,
+
+First Year AI ML Project,
+First Year Machine Learning Project,
+1st Semester AI Project,
+2nd Semester AI Project,
+Beginner Machine Learning Project,
+Mini Project Using CNN,
+College Level AI Project,
+
+Flask Based ML Project,
+Python Deep Learning Project,
+Healthcare AI Project,
+CNN Medical Diagnosis System
+

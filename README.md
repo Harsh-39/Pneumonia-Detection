@@ -15,7 +15,9 @@ python app.py
 
 ### Download Model
 Model is too large for GitHub. Download from Google Drive:
-🔗 https://drive.google.com/file/d/1Yotb32jvX-N1OGiiJxdjD15l85DCOXgs/view?usp=sharing
+Contact on email(given in bio ) for model link. 
+
+Contact E-mail = harshlavaniya11@gmail.com
 
 STEPS TO RUN THE MODEL (ON ANY SYSTEM USING VS CODE)
 
